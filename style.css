@@ -25,6 +25,7 @@ body{
     transition: .5s;
     transition-delay: .8s;
 }
+
 .navigation.active{
     width: 200px;
     height: 200px;
@@ -44,6 +45,7 @@ body{
     transition: transform .5s, width .5s, height .5s, background .5s;
     transition-delay: calc(.1s * var(--i));
 }
+
 .navigation.active span{
     width: 45px;
     height: 45px;
@@ -60,6 +62,7 @@ body{
     font-size: 1.35em;
     color: #fff;
 }
+
 .navigation.active span:hover ion-icon{
     color: #fc2d2d;
     filter: drop-shadow(0 0 2px #00f52d) 
