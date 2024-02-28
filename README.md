@@ -3,4 +3,4 @@
 
 
 
-Simple CSS mais um bom estudos
+Simple projeto de CSS mais muito bom para estudos e aprimoramento de técnicas.
